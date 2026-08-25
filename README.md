@@ -3,11 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE...;AI+ENGINEER+%7C+MACHINE+LEARNING;AGENTIC+AI+%7C+GENAI+%7C+CLOUD;Tough+times+grow+softer+through+steady+effort.;INITIALIZING+NEURAL+NETWORKS...;DEPLOYING+TO+PRODUCTION..." alt="Typing SVG" />
 </p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="kamaleshct118's GitHub profile" src="dark_mode.svg" />
-</picture>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 </p>
