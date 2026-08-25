@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="kamaleshct118's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0a0a,40:1a1a1a,70:C9A84C,100:FFD700&text=KAMALESH%20V&fontSize=52&fontColor=FFD700&animation=twinkling&fontAlignY=35&desc=⚡%20AI%20ENGINEER%20⚡&descSize=20&descAlignY=58&textBg=false&stroke=FFD700&strokeWidth=2"/>
 
 <p align="center">
@@ -17,7 +23,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kamaleshct118/kamaleshct118/main/assets/dynamic-card.svg" width="900" alt="Live GitHub terminal card" />
+  <img src="https://media.giphy.com/media/GrPgFtvyLlgElFiO7m/giphy.gif" width="280" alt="AI Thinking" />
 </p>
 
 <p align="center">
